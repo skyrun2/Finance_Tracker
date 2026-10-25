@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.db
+*.csv
+*.pdf
+.DS_Store
+node_modules/
+.next/
